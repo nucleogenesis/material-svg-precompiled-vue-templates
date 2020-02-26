@@ -1,0 +1,18 @@
+{
+  "name": "material-svg-precompiled-vue-templates",
+  "version": "1.0.0",
+  "description": "Provides Material SVG files precompiled into Vue templates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@material-icons/svg": "git+https://github.com/material-icons/material-icons.git",
+    "atob": "^2.1.2",
+    "escodegen": "^1.14.1",
+    "espree": "^6.1.2",
+    "vue-template-compiler": "^2.5.17"
+  }
+}
